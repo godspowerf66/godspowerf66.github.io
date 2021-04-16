@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css2?family=Lobster&display=swap);
+
+@import url(https://fonts.googleapis.com/css2?family=Poppins&display=swap);
+
+body {
+    background: #f2f2f2;
+    margin: 0;
+}
+
+h1 {
+    font-family: lobster;
+    color: #ff0000;
+    text-align: center;
+}
+
+h2 {
+    font-family: helvetica;
+    color: #0000ff;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+footer {
+    font-family: cursive;
+    text-align: center;
+    color: #00008b;
+    font-size: 12px;
+}
+
+#img-center {
+    display: block;
+    text-align: center;
+    font-family: garamond;
+    font-size: medium;
+}
+
+#img-div {
+    width: 50%;
+    height: auto;
+    border-radius: 6%;
+}
+
+#tribute-info {
+    font-family: Poppins;
+    font-size: 13px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#tribute-link {
+    text-decoration: none;
+}
